@@ -1,4 +1,5 @@
 # Python 3.10 (2024)
+# Spyder IDE 5.4.3
 #%%Libraries
 
 # External Libraries
